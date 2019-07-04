@@ -3,7 +3,7 @@ Code Test for Web Developer Java
 
 ## Abstract
 The candidate should develop a simple RESTful+JSON Java web application that implements a CRUD API for managing a phonebook.  
-Data should be persisted across webapp restarts and access to it must be resilient to concurrency.  
+Data should be persisted across webapp restarts and access to them must be resilient to concurrency.  
 Webapp should also be resilient to malformed requests.  
 
 ## Required Technologies
